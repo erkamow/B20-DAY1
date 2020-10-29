@@ -1,1 +1,7 @@
-This is the first class of GitHub
+This is the first day of GitHub
+
+we created a git repository on desktop called B20-DAY1
+
+We added one file inside called file1.txt
+git automatically detected the changes
+We committed this changes into local repository
